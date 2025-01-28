@@ -1,4 +1,4 @@
-# Envio de Mensagens para o Oracle Cloud Queue usando STOMP (PHP)
+# Envio de Mensagens para o Oracle Cloud Queue usando STOMP com PHP 7.1.33
 
 Este projeto demonstra como se conectar ao serviço de filas (Queue) da Oracle Cloud Infrastructure (OCI) usando o protocolo **STOMP** em PHP.
 
